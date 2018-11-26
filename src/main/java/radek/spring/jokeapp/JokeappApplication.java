@@ -1,4 +1,4 @@
-package radek.spring.jokeapp.jokeapp;
+package radek.spring.jokeapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
